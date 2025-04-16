@@ -405,7 +405,8 @@ Attempt to login with it, observe the error message
 <br />
 
 <p>
-<img width="517" alt="Screenshot 2025-04-16 at 6 02 12 PM" src="https://github.com/user-attachments/assets/3d703aca-b821-4333-b9fe-c71e6258b0e2" />
+<img width="513" alt="Screenshot 2025-04-16 at 6 08 22 PM" src="https://github.com/user-attachments/assets/6d35c077-2d8b-404c-afb6-7d3bfc28eb21" />
+
 </p>
 <p>
 Re-enable the account and attempt to login with it.
