@@ -175,7 +175,7 @@ Create another Organizational Unit (OU) called “_ADMINS”
 
 </p>
 <p>
-In Active Directory Users and Computers (ADUC), 
+Create a new employee named “Jane Doe” (same password) with the username of “jane_admin”
 
 
 </p>
