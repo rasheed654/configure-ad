@@ -128,7 +128,8 @@ The output for the DNS settings should show DC-1’s private IP Address
 <h2>Deploying Active Directory</h2>
 
 <p>
-<img width="1847" alt="Screenshot 2025-04-16 at 2 22 26 PM" src="https://github.com/user-attachments/assets/7d6ee91f-ce53-4073-bca6-3e155e39412c" />
+<img width="1663" alt="Screenshot 2025-04-16 at 2 26 41 PM" src="https://github.com/user-attachments/assets/5d31e334-ca5c-414c-b5ca-8516f4b63c1c" />
+
 
 
 </p>
