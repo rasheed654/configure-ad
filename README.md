@@ -238,7 +238,8 @@ Create a new OU named “_CLIENTS” and drag Client-1 into there
 <h2>Creating Users With Powershell</h2>
 
 <p>
-<img width="1201" alt="Screenshot 2025-04-16 at 4 06 40 PM" src="https://github.com/user-attachments/assets/710e561d-08f7-486e-ba4e-7da05bcc5041" />
+<img width="1203" alt="Screenshot 2025-04-16 at 4 11 27 PM" src="https://github.com/user-attachments/assets/45b2fef8-11ab-4003-a92d-f17f0d3b9a72" />
+
 
 
 
