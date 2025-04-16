@@ -367,12 +367,18 @@ Observe that the account has been locked out within Active Directory
 
 <p>
 <img width="412" alt="Screenshot 2025-04-16 at 5 44 18 PM" src="https://github.com/user-attachments/assets/72c05212-021c-4b59-aa02-b59dad9540d1" />
-
-
-
-
 </p>
 <p>
 Unlock the account
 </p>
 <br />
+
+<p>
+<img width="518" alt="Screenshot 2025-04-16 at 5 51 47 PM" src="https://github.com/user-attachments/assets/b13b60ad-1aa1-4fa2-8d72-6f015af808cc" />
+
+</p>
+<p>
+Reset the password
+</p>
+<br />
+
