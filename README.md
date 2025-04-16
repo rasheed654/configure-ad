@@ -415,7 +415,8 @@ Re-enable the account and attempt to login with it.
 
 <h3>Observing Logs</h3>
 <p>
-<img width="513" alt="Screenshot 2025-04-16 at 6 08 22 PM" src="https://github.com/user-attachments/assets/6d35c077-2d8b-404c-afb6-7d3bfc28eb21" />
+<img width="1454" alt="Screenshot 2025-04-16 at 6 15 51 PM" src="https://github.com/user-attachments/assets/7d5d50ff-bf45-4f9b-9d1d-88a5c6a127fa" />
+
 
 </p>
 <p>
