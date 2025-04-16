@@ -234,3 +234,5 @@ Create a new OU named “_CLIENTS” and drag Client-1 into there
 
 </p>
 <br />
+
+<h2>Creating Users With Powershell</h2>
