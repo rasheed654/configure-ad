@@ -103,10 +103,11 @@ From the Azure portal, restart Client 1
 <br />
 
 <p>
-<img width="372" alt="Screenshot 2025-04-16 at 1 44 13 PM" src="https://github.com/user-attachments/assets/22e88fc3-3767-4844-8872-1e055c85a081" />
+<img width="1580" alt="Screenshot 2025-04-16 at 1 54 55 PM" src="https://github.com/user-attachments/assets/4349f915-fe39-40dd-abcc-0b904685ff5f" />
+
 
 </p>
 <p>
-Login To Client-1
+Login To Client-1 and ping DC-1 private IP address
 </p>
 <br />
