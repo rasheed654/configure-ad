@@ -209,3 +209,17 @@ User jane_admin as your admin account from now on
 </p>
 <br />
 
+<p>
+<img width="1201" alt="Screenshot 2025-04-16 at 3 43 24 PM" src="https://github.com/user-attachments/assets/00e5fb8d-9017-45d6-99e5-a0797f30eb5f" />
+
+
+
+</p>
+<p>
+Login to Client-1 as the original local admin (labuser) and join it to the domain (computer will restart)
+Login to the Domain Controller and verify Client-1 shows up in ADUC
+Create a new OU named “_CLIENTS” and drag Client-1 into there
+
+</p>
+<br />
+
