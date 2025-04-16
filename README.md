@@ -144,3 +144,13 @@ Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remem
 </p>
 <br />
 
+<p>
+<img width="443" alt="Screenshot 2025-04-16 at 2 49 48 PM" src="https://github.com/user-attachments/assets/55098f2b-a02c-465d-b022-1e3b644bfbfb" />
+
+
+</p>
+<p>
+Restart and then log back into DC-1 as user: mydomain.com\labuser
+
+</p>
+<br />
