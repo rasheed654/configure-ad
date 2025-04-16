@@ -169,7 +169,8 @@ Create another Organizational Unit (OU) called “_ADMINS”
 <br />
 
 <p>
-<img width="754" alt="Screenshot 2025-04-16 at 2 58 15 PM" src="https://github.com/user-attachments/assets/5c11cf17-9b8b-4302-9b5b-675ec502aa5e" />
+<img width="753" alt="Screenshot 2025-04-16 at 3 08 04 PM" src="https://github.com/user-attachments/assets/1329f11e-5ec5-4bbd-a372-63a252404f89" />
+
 
 
 
