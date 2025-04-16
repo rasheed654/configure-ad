@@ -104,7 +104,8 @@ From the Azure portal, restart Client 1
 <br />
 
 <p>
-<img width="1580" alt="Screenshot 2025-04-16 at 1 54 55 PM" src="https://github.com/user-attachments/assets/4349f915-fe39-40dd-abcc-0b904685ff5f" />
+<img width="1576" alt="Screenshot 2025-04-16 at 2 00 03 PM" src="https://github.com/user-attachments/assets/b25d59dd-5405-4a4c-981e-4d895b91025d" />
+
 
 
 </p>
