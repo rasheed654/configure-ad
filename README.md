@@ -383,3 +383,33 @@ then Atempt to log in with it.
 </p>
 <br />
 
+<p>
+<img width="518" alt="Screenshot 2025-04-16 at 5 51 47 PM" src="https://github.com/user-attachments/assets/b13b60ad-1aa1-4fa2-8d72-6f015af808cc" />
+
+</p>
+<p>
+Reset the password
+then Atempt to log in with it.
+</p>
+<br />
+
+<h3>Enabling and Disabling Accounts </h3>
+
+<p>
+<img width="517" alt="Screenshot 2025-04-16 at 6 02 12 PM" src="https://github.com/user-attachments/assets/3d703aca-b821-4333-b9fe-c71e6258b0e2" />
+</p>
+<p>
+Disable the same account in Active Directory
+Attempt to login with it, observe the error message
+</p>
+<br />
+
+<p>
+<img width="517" alt="Screenshot 2025-04-16 at 6 02 12 PM" src="https://github.com/user-attachments/assets/3d703aca-b821-4333-b9fe-c71e6258b0e2" />
+</p>
+<p>
+Re-enable the account and attempt to login with it.
+</p>
+<br />
+
+
