@@ -313,3 +313,43 @@ Pick a random user account you created previously
 Attempt to log in with it 10 times with a bad password
 </p>
 <br />
+
+<p>
+<img width="788" alt="Screenshot 2025-04-16 at 5 25 47 PM" src="https://github.com/user-attachments/assets/84efaa3b-3926-46ac-a1ad-c61ab287ee99" />
+
+
+
+</p>
+<p>
+Open the Group Policy Management Console (GPMC)
+Log in to a machine with Group Policy Management Console installed (typically, a Domain Controller).
+Click Start, and type gpmc.msc in the search box, then press Enter. This opens the Group Policy Management Console.
+2. Create or Edit a Group Policy Object (GPO)
+In the GPMC, navigate to the Group Policy Objects section.
+Right-click Group Policy Objects and select New to create a new GPO, or right-click an existing GPO and select Edit to modify it.
+Give the new GPO a descriptive name if you're creating a new one, like "Account Lockout Policy".
+3. Navigate to the Account Lockout Policy Settings
+In the Group Policy Management Editor, expand the following:
+Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Account Lockout Policy.
+4. Configure Account Lockout Policy Settings
+You will see three primary settings that you need to configure:
+Account Lockout Duration:
+Definition: The time in minutes that an account remains locked before it is automatically unlocked.
+Configuration: Double-click on this setting, select Define this policy setting, and then set the duration (e.g., 30 minutes).
+Account Lockout Threshold:
+Definition: The number of failed logon attempts that will trigger an account lockout.
+Configuration: Double-click on this setting, select Define this policy setting, and then set the threshold (e.g., 3 invalid attempts).
+Reset Account Lockout Counter After:
+Definition: The time in minutes after which the failed logon attempts counter is reset to 0, assuming there are no additional failed logon attempts.
+Configuration: Double-click on this setting, select Define this policy setting, and then set the time (e.g., 15 minutes).
+5. Link the GPO to an Organizational Unit (OU)
+Once the GPO is configured, you need to link it to the appropriate Organizational Unit (OU) or domain where you want the policy to apply.
+In the GPMC, right-click the OU or domain where you want to apply the GPO and select Link an Existing GPO.
+Choose the GPO you created or modified earlier and click OK.
+6. Update Group Policy
+You can wait for the Group Policy to propagate automatically, or you can force an update immediately.
+On a client machine or server, open Command Prompt and type gpupdate /force, then press Enter.
+<img width="975" alt="Screenshot 2025-04-16 at 5 28 39 PM" src="https://github.com/user-attachments/assets/3e81f409-3f3f-4256-ac8a-95026cee5051" />
+
+</p>
+<br />
