@@ -115,7 +115,8 @@ Login To Client-1 and ping DC-1 private IP address and make sure ping succeded.
 <br />
 
 <p>
-<img width="1576" alt="Screenshot 2025-04-16 at 2 00 03 PM" src="https://github.com/user-attachments/assets/b25d59dd-5405-4a4c-981e-4d895b91025d" />
+<img width="1562" alt="Screenshot 2025-04-16 at 2 03 38 PM" src="https://github.com/user-attachments/assets/670142cd-4932-45da-b010-594f570a9a13" />
+
 </p>
 <p>
 From Client-1, open PowerShell and run ipconfig /all
