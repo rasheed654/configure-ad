@@ -353,3 +353,25 @@ On a client machine or server, open Command Prompt and type gpupdate /force, the
 
 </p>
 <br />
+
+<p>
+<img width="259" alt="Screenshot 2025-04-16 at 5 41 46 PM" src="https://github.com/user-attachments/assets/b1de4e38-412d-4332-be26-9ae4936f3015" />
+
+
+
+</p>
+<p>
+Observe that the account has been locked out within Active Directory
+</p>
+<br />
+
+<p>
+<img width="259" alt="Screenshot 2025-04-16 at 5 41 46 PM" src="https://github.com/user-attachments/assets/b1de4e38-412d-4332-be26-9ae4936f3015" />
+
+
+
+</p>
+<p>
+Observe that the account has been locked out within Active Directory
+</p>
+<br />
