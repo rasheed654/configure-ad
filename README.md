@@ -419,7 +419,7 @@ Re-enable the account and attempt to login with it.
 
 </p>
 <p>
-Re-enable the account and attempt to login with it.
+Observe the logs in the Domain Controller
 </p>
 <br />
 
