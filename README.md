@@ -416,11 +416,17 @@ Re-enable the account and attempt to login with it.
 <h3>Observing Logs</h3>
 <p>
 <img width="1454" alt="Screenshot 2025-04-16 at 6 15 51 PM" src="https://github.com/user-attachments/assets/7d5d50ff-bf45-4f9b-9d1d-88a5c6a127fa" />
-
-
 </p>
 <p>
 Observe the logs in the Domain Controller
 </p>
 <br />
 
+<p>
+<img width="1608" alt="Screenshot 2025-04-16 at 6 26 22 PM" src="https://github.com/user-attachments/assets/3b9808ed-2ff0-43e0-84d1-f25d107687f5" />
+
+</p>
+<p>
+Observe the logs on the client Machine
+</p>
+<br />
