@@ -413,4 +413,13 @@ Re-enable the account and attempt to login with it.
 </p>
 <br />
 
+<h3>Observing Logs</h3>
+<p>
+<img width="513" alt="Screenshot 2025-04-16 at 6 08 22 PM" src="https://github.com/user-attachments/assets/6d35c077-2d8b-404c-afb6-7d3bfc28eb21" />
+
+</p>
+<p>
+Re-enable the account and attempt to login with it.
+</p>
+<br />
 
