@@ -308,8 +308,8 @@ Attempt to log into Client-1 with one of the accounts (take note of the password
 
 </p>
 <p>
-Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
-
-
+Get logged into dc-1
+Pick a random user account you created previously
+Attempt to log in with it 10 times with a bad password
 </p>
 <br />
