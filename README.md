@@ -366,12 +366,13 @@ Observe that the account has been locked out within Active Directory
 <br />
 
 <p>
-<img width="259" alt="Screenshot 2025-04-16 at 5 41 46 PM" src="https://github.com/user-attachments/assets/b1de4e38-412d-4332-be26-9ae4936f3015" />
+<img width="412" alt="Screenshot 2025-04-16 at 5 44 18 PM" src="https://github.com/user-attachments/assets/72c05212-021c-4b59-aa02-b59dad9540d1" />
+
 
 
 
 </p>
 <p>
-Observe that the account has been locked out within Active Directory
+Unlock the account
 </p>
 <br />
