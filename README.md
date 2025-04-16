@@ -299,3 +299,5 @@ Attempt to log into Client-1 with one of the accounts (take note of the password
 <br />
 
 <h2>Group Policy and Mangaing Accounts</h2>
+
+<h3>Dealing with account lockout </h3>
