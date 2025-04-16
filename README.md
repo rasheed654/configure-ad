@@ -285,3 +285,15 @@ When finished, open Active Directory Users and computers and observe the account
 
 </p>
 <br />
+
+<p>
+<img width="752" alt="Screenshot 2025-04-16 at 4 35 45 PM" src="https://github.com/user-attachments/assets/ddb8503a-eb29-4680-a375-8b5749586ecc" />
+
+</p>
+<p>
+Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
+
+
+</p>
+<br />
+
