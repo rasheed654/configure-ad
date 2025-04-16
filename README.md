@@ -265,3 +265,13 @@ Open PowerShell_ise as an administrator
 </p>
 <br />
 
+<p>
+<img width="2002" alt="Screenshot 2025-04-16 at 4 18 59 PM" src="https://github.com/user-attachments/assets/fb640d48-edd3-4df3-9a0d-6ad828e427eb" />
+</p>
+<p>
+Create a new File and paste the contents of the script into it that creates new users.
+Run the script and observe the accounts being created
+
+</p>
+<br />
+
