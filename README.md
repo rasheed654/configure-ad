@@ -126,3 +126,14 @@ The output for the DNS settings should show DC-1’s private IP Address
 <br />
 
 <h2>Deploying Active Directory</h2>
+
+<p>
+<img width="1847" alt="Screenshot 2025-04-16 at 2 22 26 PM" src="https://github.com/user-attachments/assets/7d6ee91f-ce53-4073-bca6-3e155e39412c" />
+
+
+</p>
+<p>
+Login to DC-1 and install Active Directory Domain Services
+Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is)
+</p>
+<br />
