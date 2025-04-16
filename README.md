@@ -82,3 +82,12 @@ Create the Client VM (Windows 10) named “Client-1”
 Login To DC-1 and turn off Windows Firewall.
 </p>
 <br />
+
+<p>
+<img width="1105" alt="Screenshot 2025-04-16 at 1 31 38 PM" src="https://github.com/user-attachments/assets/f4a38174-763b-482d-9dc3-1ab6b544ca88" />
+
+</p>
+<p>
+Set Client-1 DNS settings to DC-1 Private IP Address
+</p>
+<br />
