@@ -198,7 +198,8 @@ Add jane_admin to the “Domain Admins” Security Group
 <br />
 
 <p>
-<img width="412" alt="Screenshot 2025-04-16 at 3 14 27 PM" src="https://github.com/user-attachments/assets/fa15606b-7935-4cd6-b28d-3a3c3bdab293" />
+<img width="440" alt="Screenshot 2025-04-16 at 3 26 52 PM" src="https://github.com/user-attachments/assets/55f92b42-c58d-4f53-b2cd-c0705f8650d7" />
+
 
 </p>
 <p>
