@@ -137,7 +137,8 @@ Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remem
 <br />
 
 <p>
-<img width="1663" alt="Screenshot 2025-04-16 at 2 26 41 PM" src="https://github.com/user-attachments/assets/5d31e334-ca5c-414c-b5ca-8516f4b63c1c" />
+<img width="1666" alt="Screenshot 2025-04-16 at 2 33 56 PM" src="https://github.com/user-attachments/assets/ed5c9ce6-4c20-4bd6-be54-d70dc8445068" />
+
 </p>
 <p>
 Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is)
