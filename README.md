@@ -287,7 +287,8 @@ When finished, open Active Directory Users and computers and observe the account
 <br />
 
 <p>
-<img width="752" alt="Screenshot 2025-04-16 at 4 35 45 PM" src="https://github.com/user-attachments/assets/ddb8503a-eb29-4680-a375-8b5749586ecc" />
+<img width="439" alt="Screenshot 2025-04-16 at 4 42 03 PM" src="https://github.com/user-attachments/assets/e2a8a104-6ea9-4ff4-8466-5ed8d422649b" />
+
 
 </p>
 <p>
