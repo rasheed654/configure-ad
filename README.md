@@ -132,7 +132,6 @@ The output for the DNS settings should show DC-1’s private IP Address
 </p>
 <p>
 Login to DC-1 and install Active Directory Domain Services
-Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is)
 </p>
 <br />
 
