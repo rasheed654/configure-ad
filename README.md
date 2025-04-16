@@ -74,3 +74,11 @@ Create the Client VM (Windows 10) named “Client-1”
 </p>
 <br />
 
+<p>
+<img width="1044" alt="Screenshot 2025-04-16 at 1 23 41 PM" src="https://github.com/user-attachments/assets/9a84b536-b04c-4ca4-b894-ada56cfd159d" />
+
+</p>
+<p>
+Login To DC-1 and turn off Windows Firewall.
+</p>
+<br />
