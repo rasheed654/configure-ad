@@ -163,6 +163,19 @@ Restart and then log back into DC-1 as user: mydomain.com\labuser
 </p>
 <p>
 In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES”
+Create another Organizational Unit (OU) called “_ADMINS”
+
+</p>
+<br />
+
+<p>
+<img width="754" alt="Screenshot 2025-04-16 at 2 58 15 PM" src="https://github.com/user-attachments/assets/5c11cf17-9b8b-4302-9b5b-675ec502aa5e" />
+
+
+
+</p>
+<p>
+In Active Directory Users and Computers (ADUC), 
 
 
 </p>
