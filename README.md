@@ -75,7 +75,8 @@ Create the Client VM (Windows 10) named “Client-1”
 <br />
 
 <p>
-<img width="1044" alt="Screenshot 2025-04-16 at 1 23 41 PM" src="https://github.com/user-attachments/assets/9a84b536-b04c-4ca4-b894-ada56cfd159d" />
+<img width="901" alt="Screenshot 2025-04-16 at 1 59 06 PM" src="https://github.com/user-attachments/assets/878a6fce-81c3-461b-89bd-62e66f8c306e" />
+
 
 </p>
 <p>
