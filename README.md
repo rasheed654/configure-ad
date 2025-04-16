@@ -108,6 +108,6 @@ From the Azure portal, restart Client 1
 
 </p>
 <p>
-Login To Client-1 and ping DC-1 private IP address
+Login To Client-1 and ping DC-1 private IP address and make sure ping succeded.
 </p>
 <br />
