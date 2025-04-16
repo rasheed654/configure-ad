@@ -92,3 +92,12 @@ Login To DC-1 and turn off Windows Firewall.
 Set Client-1 DNS settings to DC-1 Private IP Address
 </p>
 <br />
+
+
+<p>
+<img width="2227" alt="Screenshot 2025-04-16 at 1 37 52 PM" src="https://github.com/user-attachments/assets/57bda9c3-6fad-47e7-bd4a-bbc1622efc17" />
+</p>
+<p>
+From the Azure portal, restart Client 1
+</p>
+<br />
