@@ -67,8 +67,7 @@ After VM is created, set Domain Controller’s NIC Private IP address to be stat
 
 <p>
 <<p>
-<<img width="934" alt="Screenshot 2025-04-16 at 12 30 59 PM" src="https://github.com/user-attachments/assets/81db29e5-3b57-4869-a204-924bd1a8f655" />
- />
+<img width="945" alt="Screenshot 2025-04-16 at 12 38 36 PM" src="https://github.com/user-attachments/assets/23cb05ca-4c94-439c-82ea-56015527d830" />
 </p>
 <p>
 Create the Client VM (Windows 10) named “Client-1”
