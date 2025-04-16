@@ -236,3 +236,21 @@ Create a new OU named “_CLIENTS” and drag Client-1 into there
 <br />
 
 <h2>Creating Users With Powershell</h2>
+
+<p>
+<img width="1201" alt="Screenshot 2025-04-16 at 4 06 40 PM" src="https://github.com/user-attachments/assets/710e561d-08f7-486e-ba4e-7da05bcc5041" />
+
+
+
+
+
+</p>
+<p>
+Log into Client-1 as mydomain.com\jane_admin
+Open system properties
+Click “Remote Desktop”
+Allow “domain users” access to remote desktop
+You can now log into Client-1 as a normal, non-administrative user now
+
+</p>
+<br />
