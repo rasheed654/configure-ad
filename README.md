@@ -379,6 +379,7 @@ Unlock the account
 </p>
 <p>
 Reset the password
+then Atempt to log in with it.
 </p>
 <br />
 
