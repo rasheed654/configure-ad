@@ -255,3 +255,20 @@ You can now log into Client-1 as a normal, non-administrative user now
 
 </p>
 <br />
+
+<p>
+<img width="2002" alt="Screenshot 2025-04-16 at 4 18 59 PM" src="https://github.com/user-attachments/assets/fb640d48-edd3-4df3-9a0d-6ad828e427eb" />
+
+
+
+
+
+
+
+</p>
+<p>
+Login to DC-1 as jane_admin
+Open PowerShell_ise as an administrator
+</p>
+<br />
+
