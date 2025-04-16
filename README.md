@@ -113,3 +113,13 @@ From the Azure portal, restart Client 1
 Login To Client-1 and ping DC-1 private IP address and make sure ping succeded.
 </p>
 <br />
+
+<p>
+<img width="1576" alt="Screenshot 2025-04-16 at 2 00 03 PM" src="https://github.com/user-attachments/assets/b25d59dd-5405-4a4c-981e-4d895b91025d" />
+</p>
+<p>
+From Client-1, open PowerShell and run ipconfig /all
+The output for the DNS settings should show DC-1’s private IP Address
+
+</p>
+<br />
