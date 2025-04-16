@@ -101,3 +101,12 @@ Set Client-1 DNS settings to DC-1 Private IP Address
 From the Azure portal, restart Client 1
 </p>
 <br />
+
+<p>
+<img width="372" alt="Screenshot 2025-04-16 at 1 44 13 PM" src="https://github.com/user-attachments/assets/22e88fc3-3767-4844-8872-1e055c85a081" />
+
+</p>
+<p>
+Login To Client-1
+</p>
+<br />
