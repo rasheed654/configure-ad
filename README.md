@@ -301,3 +301,15 @@ Attempt to log into Client-1 with one of the accounts (take note of the password
 <h2>Group Policy and Mangaing Accounts</h2>
 
 <h3>Dealing with account lockout </h3>
+
+<p>
+<img width="439" alt="Screenshot 2025-04-16 at 4 42 03 PM" src="https://github.com/user-attachments/assets/e2a8a104-6ea9-4ff4-8466-5ed8d422649b" />
+
+
+</p>
+<p>
+Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
+
+
+</p>
+<br />
