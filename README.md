@@ -33,7 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 <img width="1912" alt="Screenshot 2025-04-16 at 12 55 53 PM" src="https://github.com/user-attachments/assets/48ca8929-b1c9-4e42-8586-67f77c94fccb" />
-/>
+
 </p>
 <p>
 Create a resource group
