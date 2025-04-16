@@ -64,3 +64,13 @@ Create the Domain Controller VM (Windows Server 2022) named “DC-1”
 After VM is created, set Domain Controller’s NIC Private IP address to be static
 </p>
 <br />
+
+<p>
+<<p>
+<img width="569" alt="Screenshot 2025-04-16 at 12 50 43 PM" src="https://github.com/user-attachments/assets/1e515a87-830c-4539-83d5-98df8a46dd24" />
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”
+</p>
+<br />
+
