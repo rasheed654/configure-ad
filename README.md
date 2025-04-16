@@ -182,3 +182,18 @@ Create a new employee named “Jane Doe” (same password) with the username of 
 </p>
 <br />
 
+<p>
+<img width="412" alt="Screenshot 2025-04-16 at 3 14 27 PM" src="https://github.com/user-attachments/assets/fa15606b-7935-4cd6-b28d-3a3c3bdab293" />
+
+
+
+
+
+</p>
+<p>
+Add jane_admin to the “Domain Admins” Security Group
+
+
+</p>
+<br />
+
